@@ -1,4 +1,4 @@
-Desenvolvido por João Dall Agnol
+Desenvolvido por João Dall Agnol - Conversor AFND -> AFD
 
 Para escolher o arquivo de entrada deve-se alterar o parametro x em Path.get(x), classe Terminal, linha 28.
 Em seguida a main em App pode ser executada, imprimindo no terminal o novo afd e pedindo uma palavra para testa-lo. 
