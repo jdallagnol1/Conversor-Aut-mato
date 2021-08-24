@@ -1,0 +1,13 @@
+M=({q0,q1,q2,q3,q4,q5,q6,q7,q8},{d,c,a,s,k,p,l},q0,{q6,q7,q8})
+Prog
+(q0,d)=q1
+(q1,c)=q2
+(q1,c)=q3
+(q2,s)=q5
+(q3,a)=q4
+(q4,k)=q6
+(q4,p)=q7
+(q4,l)=q8
+(q5,k)=q6
+(q5,p)=q7
+(q5,l)=q8
